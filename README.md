@@ -12,3 +12,6 @@ Student Info
 * Student Name: Vu Dinh Anh
 * Student ID: m21.ict.001
 
+Kaggle notebooks
+================
+[dm2022-practical-lab-1](https://www.kaggle.com/inhanhv/dm2022-practical-lab-1)
