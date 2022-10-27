@@ -15,3 +15,5 @@ Student Info
 Kaggle notebooks
 ================
 [dm2022-practical-lab-1](https://www.kaggle.com/inhanhv/dm2022-practical-lab-1)
+
+[dm2022-practical-lab-3](https://www.kaggle.com/inhanhv/dm2022-practical-lab-3)
