@@ -1,6 +1,5 @@
-import numpy as np
-import math
-from random import seed, randint
+from random import randint, seed
+
 seed(1)
 
 data = [randint(1, 100) for i in range(100)]
